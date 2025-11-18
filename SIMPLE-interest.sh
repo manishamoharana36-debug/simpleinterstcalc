@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created by: Manisha Maharana
+# Created by: Manisha Moharana
 # Script to calculate simple interest
 
 if [ $# -ne 3 ]; then
